@@ -861,6 +861,11 @@ p {
   .mitsu-container {
     padding: 4rem 10px 0;
   }
+
+  .card-d h3 {
+    font: 25px GenKiMin-R;
+    font-weight: 600;
+  }
 }
 
 @media (min-width: 1800px) { 
@@ -869,7 +874,8 @@ p {
   }
 
   .card-d h3 {
-    font: 25px GenKiMin-R;
+    font: 28px GenKiMin-R;
+    font-weight: 600;
     text-indent: 10px;  
   }
 
